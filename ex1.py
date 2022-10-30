@@ -67,4 +67,4 @@ member9 = {'번호': [1, 2, 3, 4, 5, 6, 7],
            '이름': ['홍길동', '김길동', 'NA', '이길동', '최길동', 'NA', '윤길동'],
            '나이': [20, 30, 40, NA, 60, NA, 80]}
 member10 = pd.DataFrame(member9, columns=['번호', '이름', '나이'])
-print(member10)
+# print(member10)
